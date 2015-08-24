@@ -208,7 +208,7 @@ public final class DividendImporter
     }
 
 
-    public static  void  DownloadCsv()
+    public static  void  DownloadDividends()
     {
         try
         {
